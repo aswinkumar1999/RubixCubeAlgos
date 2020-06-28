@@ -16,15 +16,15 @@ Our First **Stackoverflow question** where we got negative points : https://stac
 # Screenshots 
 
 ![alt-text-1](https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-23-52.png) 
-<p float="left">
-  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-02.png" width="470" />
-  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-49.png" width="470" /> 
+<p float="center">
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-02.png" width="400" />
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-49.png" width="400" /> 
 </p>
-<p float="left">
-  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-56.png" width="470" />
-  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-25-18.png" width="470" /> 
+<p float="center">
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-56.png" width="400" />
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-25-18.png" width="400" /> 
 </p>
-<p float="left">
-  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-25-22.png" width="470" />
-  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-26-06.png" width="470" /> 
+<p float="center">
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-25-22.png" width="400" />
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-26-06.png" width="400" /> 
 </p>
