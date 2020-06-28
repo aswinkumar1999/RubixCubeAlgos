@@ -10,3 +10,20 @@ and our First Stackoverflow question where we got negative points : https://stac
 Reddit thread on it : https://www.reddit.com/r/Cubers/comments/30qxmm/does_anyone_have_any_experience_with_this_app/
 
 App can be downloaded here : https://apkdownload.com/Rubix-Cube-Algorithms/com.aswinajay.rubixcubealgorithms.html
+
+
+# Screenshots 
+
+![alt-text-1](https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-23-52.png) 
+<p float="left">
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-02.png" width="470" />
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-49.png" width="470" /> 
+</p>
+<p float="left">
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-24-56.png" width="470" />
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-25-18.png" width="470" /> 
+</p>
+<p float="left">
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-25-22.png" width="470" />
+  <img src="https://github.com/aswinkumar1999/RubixCubeAlgos/blob/master/Images/Screenshot_2014-04-13-11-26-06.png" width="470" /> 
+</p>
