@@ -1,5 +1,7 @@
 # RubixCubeAlgos
 
+![alt-text-1](Images/PlayStore.png) 
+
 # Archived : Android App made by Me and [Ajay](https://github.com/Wolfpackajay) and published during 2014 
 
 We have removed the App from Playstore... But all the files are free to use ... 
